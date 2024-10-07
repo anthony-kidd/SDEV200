@@ -1,6 +1,6 @@
 /*
  * Author: Anthony Kidd
- * Date of Last Revision: 10/27/24
+ * Date of Last Revision: 10/07/24
  * Description: Define a custom exception called BinaryFormatException. 
  * Implement the bin2Dec method to throw a BinaryFormatException 
  * if the string is not a binary string.
